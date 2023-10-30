@@ -1,0 +1,9 @@
+:root{
+    --TLcolors-BG: #0d0d0d;
+    --TLcolors-HL: #1a1a1a;
+    --TLcolors-text: #fff;
+    --TLcolors-Link: #99ccff;
+    --TLcolors-Link-hover: #66b3ff;
+    --TLcolors-link-visited: #cc99ff;
+    --TLpreferedfont: 'Atkinson Hyperlegible';
+}
